@@ -1,0 +1,3522 @@
+[
+  {
+    "nameOfIssuer": "DDD",
+    "cusip": "88554D205",
+    "titleOfClass": "3D Systems",
+    "value": 0,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 25,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 25,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MMM",
+    "cusip": "88579Y101",
+    "titleOfClass": "3M Company",
+    "value": 9000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 83,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 83,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ABT",
+    "cusip": "002824100",
+    "titleOfClass": "Abbott Labs",
+    "value": 141000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 1465,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 1465,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ABBV",
+    "cusip": "00287Y109",
+    "titleOfClass": "AbbVie Inc.",
+    "value": 155000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 1161,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 1161,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ACN",
+    "cusip": "G1151C101",
+    "titleOfClass": "Accenture Plc",
+    "value": 36000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 141,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 141,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "AFL",
+    "cusip": "001055102",
+    "titleOfClass": "AFLAC Inc",
+    "value": 9000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 164,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 164,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "APD",
+    "cusip": "009158106",
+    "titleOfClass": "Air Prod & Chemicals",
+    "value": 7000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 32,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 32,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ALC",
+    "cusip": "H01301128",
+    "titleOfClass": "Alcon Inc Ord Shs",
+    "value": 30000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 525,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 525,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BABA",
+    "cusip": "01609W102",
+    "titleOfClass": "Alibaba Group Holding Ltd ADR",
+    "value": 6000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 84,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 84,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MO",
+    "cusip": "02209S103",
+    "titleOfClass": "Altria Group",
+    "value": 16000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 400,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 400,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "AMZN",
+    "cusip": "023135106",
+    "titleOfClass": "Amazon.com",
+    "value": 633000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 5607,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 5607,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "AEP",
+    "cusip": "025537101",
+    "titleOfClass": "Amer Elec Pwr",
+    "value": 2289000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 26480,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 26480,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "UHAL",
+    "cusip": "023586100",
+    "titleOfClass": "Amerco Inc",
+    "value": 5000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 10,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 10,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "AMT",
+    "cusip": "03027X100",
+    "titleOfClass": "American Tower",
+    "value": 21000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 99,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 99,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ADI",
+    "cusip": "032654105",
+    "titleOfClass": "Analog Devices Inc",
+    "value": 33000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 241,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 241,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NLY",
+    "cusip": "035710839",
+    "titleOfClass": "Annaly Mg Mgt REIT",
+    "value": 3000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 191,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 191,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ELV",
+    "cusip": "036752103",
+    "titleOfClass": "Anthem Inc",
+    "value": 30000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 68,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 68,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "AAPL",
+    "cusip": "037833100",
+    "titleOfClass": "Apple",
+    "value": 2994000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 21665,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 21665,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ARKQ",
+    "cusip": "00214Q203",
+    "titleOfClass": "ARK Autonomous Technology&Robotics ETF",
+    "value": 4000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 110,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 110,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "AJG",
+    "cusip": "363576109",
+    "titleOfClass": "Arthur J. Gallagher & Co",
+    "value": 18000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 109,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 109,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ASML",
+    "cusip": "N07059210",
+    "titleOfClass": "ASML Holding NV",
+    "value": 15000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 37,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 37,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "AZN",
+    "cusip": "046353108",
+    "titleOfClass": "AstraZeneca plc",
+    "value": 21000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 384,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 384,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ACB",
+    "cusip": "05156X884",
+    "titleOfClass": "Aurora Cannabis Inc",
+    "value": 0,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 25,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 25,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ADP",
+    "cusip": "053015103",
+    "titleOfClass": "Auto Data Processing",
+    "value": 3591000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 15880,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 15880,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "AYR.A",
+    "cusip": "05475P109",
+    "titleOfClass": "AYR WELLNESS INC SV RV",
+    "value": 0,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 100,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 100,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BAC",
+    "cusip": "060505104",
+    "titleOfClass": "Bank of America Corp",
+    "value": 1887000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 62507,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 62507,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "06053U601",
+    "cusip": "06053U601",
+    "titleOfClass": "Bank of America Corp",
+    "value": 16000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 750,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 750,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "GOLD",
+    "cusip": "067901108",
+    "titleOfClass": "Barrick Gold Corp",
+    "value": 1679000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 108383,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 108383,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BDX",
+    "cusip": "075887109",
+    "titleOfClass": "Becton Dickinson",
+    "value": 23000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 107,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 107,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "084990175",
+    "cusip": "084990175",
+    "titleOfClass": "Berkshire Hathaway A",
+    "value": 812000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 200,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 200,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BRKB",
+    "cusip": "084670702",
+    "titleOfClass": "Berkshire Hathaway B",
+    "value": 544000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 2038,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 2038,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BLK",
+    "cusip": "09247X101",
+    "titleOfClass": "BlackRock",
+    "value": 570000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 1036,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 1036,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BR",
+    "cusip": "11133T103",
+    "titleOfClass": "Broadridge Financial Solutions Inc",
+    "value": 21000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 152,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 152,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BRO",
+    "cusip": "115236101",
+    "titleOfClass": "Brown & Brown Inc",
+    "value": 30000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 504,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 504,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BF.B",
+    "cusip": "115637209",
+    "titleOfClass": "Brown-Forman Corp",
+    "value": 15000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 227,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 227,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CNI",
+    "cusip": "136375102",
+    "titleOfClass": "Canadian Natl Railway",
+    "value": 21000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 200,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 200,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CP",
+    "cusip": "13645T100",
+    "titleOfClass": "Canadian Pacific Railway Ltd",
+    "value": 25000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 375,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 375,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CCL",
+    "cusip": "143658300",
+    "titleOfClass": "Carnival Corp.",
+    "value": 0,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 111,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 111,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CARR",
+    "cusip": "14448C104",
+    "titleOfClass": "Carrier Global Corp-Wi",
+    "value": 1000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 47,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 47,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CAT",
+    "cusip": "149123101",
+    "titleOfClass": "Caterpillar Inc.",
+    "value": 2454000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 14961,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 14961,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "162537104",
+    "cusip": "162537104",
+    "titleOfClass": "Chautauqua Abstract Co. (NV)",
+    "value": 0,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 180,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 180,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CVX",
+    "cusip": "166764100",
+    "titleOfClass": "Chevron Corporation",
+    "value": 1855000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 12912,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 12912,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CMG",
+    "cusip": "169656105",
+    "titleOfClass": "Chipotle Mexican Grill Inc Class A",
+    "value": 12000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 8,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 8,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CB",
+    "cusip": "H1467J104",
+    "titleOfClass": "Chubb Corp",
+    "value": 8000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 48,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 48,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CSCO",
+    "cusip": "17275R102",
+    "titleOfClass": "Cisco Systems, Inc.",
+    "value": 6000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 170,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 170,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CL",
+    "cusip": "194162103",
+    "titleOfClass": "Colgate Palmolive",
+    "value": 385000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 5482,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 5482,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CMCSA",
+    "cusip": "20030N101",
+    "titleOfClass": "Comcast Corp.",
+    "value": 10000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 373,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 373,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CBSH",
+    "cusip": "200525103",
+    "titleOfClass": "Commerce Bancshares Inc",
+    "value": 17000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 261,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 261,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CBU",
+    "cusip": "203607106",
+    "titleOfClass": "Community Bank System Inc",
+    "value": 30000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 513,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 513,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "STZ",
+    "cusip": "21036P108",
+    "titleOfClass": "Constellation Brands Inc",
+    "value": 19000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 86,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 86,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "GLW",
+    "cusip": "219350105",
+    "titleOfClass": "Corning Inc.",
+    "value": 12000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 428,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 428,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "COST",
+    "cusip": "22160K105",
+    "titleOfClass": "Costco Wholesale Corporation",
+    "value": 19000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 41,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 41,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CRH",
+    "cusip": "12626K203",
+    "titleOfClass": "CRH PLC",
+    "value": 5000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 167,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 167,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CRWD",
+    "cusip": "22788C105",
+    "titleOfClass": "CrowdStrike Holdings Inc",
+    "value": 2000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 14,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 14,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CURLF",
+    "cusip": "23126M102",
+    "titleOfClass": "CURALEAF HOLDINGS INC",
+    "value": 27000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 5567,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 5567,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CVS",
+    "cusip": "126650100",
+    "titleOfClass": "CVS Health Corp",
+    "value": 3554000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 37274,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 37274,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "DDOG",
+    "cusip": "23804L103",
+    "titleOfClass": "DATADOG INC CL A",
+    "value": 8000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 100,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 100,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "DAL",
+    "cusip": "247361702",
+    "titleOfClass": "Delta Air Lines Inc",
+    "value": 13000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 490,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 490,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "DFS",
+    "cusip": "254709108",
+    "titleOfClass": "Discover Financial Svcs",
+    "value": 8000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 90,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 90,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "DCBO",
+    "cusip": "25609L105",
+    "titleOfClass": "DOCEBO INC ORDINARY SHARES",
+    "value": 2000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 100,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 100,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "DG",
+    "cusip": "256677105",
+    "titleOfClass": "Dollar General Corp",
+    "value": 22000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 94,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 94,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ECL",
+    "cusip": "278865100",
+    "titleOfClass": "Ecolab",
+    "value": 10000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 72,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 72,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "EW",
+    "cusip": "28176E108",
+    "titleOfClass": "Edward Lifesciences",
+    "value": 147000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 1784,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 1784,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "LLY",
+    "cusip": "532457108",
+    "titleOfClass": "Eli Lilly & Co",
+    "value": 3578000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 11065,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 11065,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "EMBC",
+    "cusip": "29082K105",
+    "titleOfClass": "EMBECTA ORD WI",
+    "value": 0,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 7,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 7,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "EQIX",
+    "cusip": "29444U700",
+    "titleOfClass": "Equinix Inc",
+    "value": 3000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 7,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 7,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ETSY",
+    "cusip": "29786A106",
+    "titleOfClass": "ETSY INC",
+    "value": 2000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 20,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 20,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "META",
+    "cusip": "30303M102",
+    "titleOfClass": "Facebook Inc A",
+    "value": 14000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 104,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 104,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "FDS",
+    "cusip": "303075105",
+    "titleOfClass": "Factset Research Systems",
+    "value": 26000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 65,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 65,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "FMB",
+    "cusip": "33739N108",
+    "titleOfClass": "First Trust Managed Municipal ETF",
+    "value": 9445000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 193878,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 193878,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "FMNY",
+    "cusip": "33739P822",
+    "titleOfClass": "FIRST TRUST NEW YORK MUNP HG INC ETF",
+    "value": 1112000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 43715,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 43715,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "RDVY",
+    "cusip": "33738R506",
+    "titleOfClass": "First Trust Rising Dividend Achiev ETF",
+    "value": 2654000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 68266,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 68266,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "F",
+    "cusip": "345370860",
+    "titleOfClass": "Ford Motor Co.",
+    "value": 4000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 373,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 373,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "FREY",
+    "cusip": "L4135L100",
+    "titleOfClass": "FREYR BATTERY ORD",
+    "value": 72000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 5084,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 5084,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "FNOV",
+    "cusip": "33740F847",
+    "titleOfClass": "FT CBOE VEST US EQUITY BUFF ETF",
+    "value": 13000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 395,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 395,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "FFEB",
+    "cusip": "33740F763",
+    "titleOfClass": "FT CBOE VEST US EQUITY BUFFER ETF",
+    "value": 17756000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 531465,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 531465,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "DFEB",
+    "cusip": "33740F771",
+    "titleOfClass": "FT CBOE VEST US EQUITY DEEP BFR ETF",
+    "value": 17742000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 543032,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 543032,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "DNOV",
+    "cusip": "33740F839",
+    "titleOfClass": "FT CBOE VEST US EQUITY DEEP BUFF ETF",
+    "value": 10790000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 332016,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 332016,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IT",
+    "cusip": "366651107",
+    "titleOfClass": "Gartner Inc",
+    "value": 21000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 77,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 77,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "GD",
+    "cusip": "369550108",
+    "titleOfClass": "General Dynamics",
+    "value": 22000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 107,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 107,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "GIS",
+    "cusip": "370334104",
+    "titleOfClass": "General Mills",
+    "value": 34000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 450,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 450,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "GILD",
+    "cusip": "375558103",
+    "titleOfClass": "Gilead Sciences Inc",
+    "value": 2854000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 46265,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 46265,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "QYLD",
+    "cusip": "37954Y483",
+    "titleOfClass": "Global X NASDAQ 100 Covered Call ETF",
+    "value": 4000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 284,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 284,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "CATH",
+    "cusip": "37954Y889",
+    "titleOfClass": "Global X S&P 500 Catholic Values ETF",
+    "value": 602000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 13807,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 13807,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "PAVE",
+    "cusip": "37954Y673",
+    "titleOfClass": "Global X US Infrastructure Dev ETF",
+    "value": 2650000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 114954,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 114954,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "GOOG",
+    "cusip": "02079K107",
+    "titleOfClass": "Google Inc.",
+    "value": 851000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 8860,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 8860,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "GOOGL",
+    "cusip": "02079K305",
+    "titleOfClass": "Google Inc.",
+    "value": 441000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 4620,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 4620,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "LOPE",
+    "cusip": "38526M106",
+    "titleOfClass": "Grand Canyon Education Inc",
+    "value": 10000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 131,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 131,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "HD",
+    "cusip": "437076102",
+    "titleOfClass": "Home Depot Inc.",
+    "value": 2047000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 7421,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 7421,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "HON",
+    "cusip": "438516106",
+    "titleOfClass": "Honeywell Inc.",
+    "value": 2000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 17,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 17,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "HUBS",
+    "cusip": "443573100",
+    "titleOfClass": "HubSpot Inc",
+    "value": 2000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 10,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 10,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ITW",
+    "cusip": "452308109",
+    "titleOfClass": "Illinois Tool Works",
+    "value": 2463000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 13638,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 13638,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IIPR",
+    "cusip": "45781V101",
+    "titleOfClass": "Innovative Industrial Properties Inc",
+    "value": 1000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 20,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 20,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "INTC",
+    "cusip": "458140100",
+    "titleOfClass": "Intel",
+    "value": 20000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 800,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 800,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IBM",
+    "cusip": "459200101",
+    "titleOfClass": "International Business Machines Corp.",
+    "value": 2683000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 22585,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 22585,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "RWJ",
+    "cusip": "46138G664",
+    "titleOfClass": "Invesco S&P SmallCap 600 Revenue ETF",
+    "value": 13000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 138,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 138,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IEI",
+    "cusip": "464288661",
+    "titleOfClass": "iShares Barclays 3-7 Year Treasury Bond (ETF)",
+    "value": 17720000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 155062,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 155062,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IAGG",
+    "cusip": "46435G672",
+    "titleOfClass": "iShares Core International Aggt Bd ETF",
+    "value": 44000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 911,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 911,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IJR",
+    "cusip": "464287804",
+    "titleOfClass": "iShares Core S&P Small-Cap (ETF)",
+    "value": 3000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 41,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 41,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IHAK",
+    "cusip": "46435U135",
+    "titleOfClass": "iShares Cybersecurity and Tech ETF",
+    "value": 14000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 416,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 416,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "USMV",
+    "cusip": "46429B697",
+    "titleOfClass": "iShares Edge MSCI Min Vol USA",
+    "value": 131000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 1990,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 1990,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ICLN",
+    "cusip": "464288224",
+    "titleOfClass": "iShares Global Clean Energy",
+    "value": 4000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 248,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 248,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "EFAV",
+    "cusip": "46429B689",
+    "titleOfClass": "iShares MSCI EAFE Min Vol Factor ETF",
+    "value": 15000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 268,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 268,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IGV",
+    "cusip": "464287515",
+    "titleOfClass": "iShares North American Tech-Software (ETF)",
+    "value": 221000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 887,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 887,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IWF",
+    "cusip": "464287614",
+    "titleOfClass": "iShares Russell 1000 Growth (ETF)",
+    "value": 23000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 110,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 110,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IWD",
+    "cusip": "464287598",
+    "titleOfClass": "iShares Russell 1000 Value (ETF)",
+    "value": 34000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 254,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 254,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "OEF",
+    "cusip": "464287101",
+    "titleOfClass": "iShares S&P 100 Index (ETF)",
+    "value": 7000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 47,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 47,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IVW",
+    "cusip": "464287309",
+    "titleOfClass": "iShares S&P 500 Growth",
+    "value": 18000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 328,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 328,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MUB",
+    "cusip": "464288414",
+    "titleOfClass": "iShares S&P National Muni Bond (ETF)",
+    "value": 41000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 406,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 406,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "IHI",
+    "cusip": "464288810",
+    "titleOfClass": "iShares U.S. Medical Devices (ETF)",
+    "value": 8138000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 172499,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 172499,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "JKHY",
+    "cusip": "426281101",
+    "titleOfClass": "Jack Henry & Associates Inc",
+    "value": 25000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 142,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 142,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "JNJ",
+    "cusip": "478160104",
+    "titleOfClass": "Johnson & Johnson",
+    "value": 76000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 469,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 469,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "JCI",
+    "cusip": "G51502105",
+    "titleOfClass": "Johnson Controls",
+    "value": 3000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 81,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 81,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "JPM",
+    "cusip": "46625H100",
+    "titleOfClass": "JP Morgan Chase",
+    "value": 100000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 962,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 962,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "KD",
+    "cusip": "50155Q100",
+    "titleOfClass": "KYNDRYL HOLDINGS ORD WI",
+    "value": 1000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 193,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 193,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "LHX",
+    "cusip": "502431109",
+    "titleOfClass": "L3Harris Technologies Ord",
+    "value": 34000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 164,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 164,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "LIN",
+    "cusip": "G5494J103",
+    "titleOfClass": "Linde plc",
+    "value": 9000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 34,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 34,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "LMT",
+    "cusip": "539830109",
+    "titleOfClass": "Lockheed Martin",
+    "value": 1967000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 5092,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 5092,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "LOW",
+    "cusip": "548661107",
+    "titleOfClass": "Lowe's Companies",
+    "value": 67000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 359,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 359,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MTB",
+    "cusip": "55261F104",
+    "titleOfClass": "M&T Bank",
+    "value": 96000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 549,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 549,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MA",
+    "cusip": "57636Q104",
+    "titleOfClass": "MasterCard Inc.",
+    "value": 1643000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 5781,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 5781,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MTCH",
+    "cusip": "57667L107",
+    "titleOfClass": "MATCH GROUP INC",
+    "value": 10000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 228,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 228,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MKC",
+    "cusip": "579780206",
+    "titleOfClass": "McCormick & Co Inc Non-Voting",
+    "value": 17000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 240,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 240,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MCD",
+    "cusip": "580135101",
+    "titleOfClass": "McDonalds Corp",
+    "value": 2327000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 10086,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 10086,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MDT",
+    "cusip": "G5960L103",
+    "titleOfClass": "Medtronic Inc.",
+    "value": 246000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 3058,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 3058,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MELI",
+    "cusip": "58733R102",
+    "titleOfClass": "MercadoLibre Inc",
+    "value": 8000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 10,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 10,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MRK",
+    "cusip": "58933Y105",
+    "titleOfClass": "Merck & Co.",
+    "value": 7000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 89,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 89,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MSFT",
+    "cusip": "594918104",
+    "titleOfClass": "Microsoft",
+    "value": 607000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 2608,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 2608,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MDLZ",
+    "cusip": "609207105",
+    "titleOfClass": "Mondelez International",
+    "value": 8000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 148,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 148,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MCO",
+    "cusip": "615369105",
+    "titleOfClass": "Moody s Corporation",
+    "value": 20000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 84,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 84,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MS",
+    "cusip": "617446448",
+    "titleOfClass": "Morgan Stanley",
+    "value": 41000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 523,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 523,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MSI",
+    "cusip": "620076307",
+    "titleOfClass": "Motorola Solutions Inc.",
+    "value": 11000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 50,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 50,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NFG",
+    "cusip": "636180101",
+    "titleOfClass": "National Fuel Gas",
+    "value": 10000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 173,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 173,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NNI",
+    "cusip": "64031N108",
+    "titleOfClass": "Nelnet Inc",
+    "value": 10000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 138,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 138,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NSRGY",
+    "cusip": "641069406",
+    "titleOfClass": "NESTLE SA ADR",
+    "value": 5000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 48,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 48,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NTES",
+    "cusip": "64110W102",
+    "titleOfClass": "NetEase Inc",
+    "value": 11000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 151,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 151,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NFLX",
+    "cusip": "64110L106",
+    "titleOfClass": "Netflix Inc",
+    "value": 2000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 10,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 10,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "RITM",
+    "cusip": "64828T201",
+    "titleOfClass": "New Residential Invt Corp Com New",
+    "value": 1000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 250,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 250,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NEE",
+    "cusip": "65339F101",
+    "titleOfClass": "NextEra Energy",
+    "value": 956000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 12198,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 12198,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NDSN",
+    "cusip": "655663102",
+    "titleOfClass": "Nordson Corp",
+    "value": 11000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 52,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 52,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NSC",
+    "cusip": "655844108",
+    "titleOfClass": "Norfolk Southern",
+    "value": 9000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 46,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 46,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NOC",
+    "cusip": "666807102",
+    "titleOfClass": "Northrop Grumman Corp.",
+    "value": 7000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 17,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 17,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NVDA",
+    "cusip": "67066G104",
+    "titleOfClass": "NVIDIA Corp",
+    "value": 48000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 400,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 400,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ORCL",
+    "cusip": "68389X105",
+    "titleOfClass": "Oracle Corp",
+    "value": 18000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 298,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 298,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "OTIS",
+    "cusip": "68902V107",
+    "titleOfClass": "OTIS Worldwide Corp-Wi",
+    "value": 1000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 23,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 23,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "694308503",
+    "cusip": "694308503",
+    "titleOfClass": "Pacific Gas & Electric Co",
+    "value": 12000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 700,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 700,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "PACW",
+    "cusip": "695263103",
+    "titleOfClass": "PacWest Bancorp",
+    "value": 3000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 156,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 156,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "PANW",
+    "cusip": "697435105",
+    "titleOfClass": "Palo Alto Networks Inc",
+    "value": 691000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 4221,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 4221,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BAA-PKI",
+    "cusip": "714046109",
+    "titleOfClass": "PARKLAND CORP CONV TO",
+    "value": 2000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 100,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 100,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "PAYX",
+    "cusip": "704326107",
+    "titleOfClass": "Paychex Inc.",
+    "value": 32000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 288,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 288,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "PEP",
+    "cusip": "713448108",
+    "titleOfClass": "PepsiCo",
+    "value": 48000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 294,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 294,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "PFE",
+    "cusip": "717081103",
+    "titleOfClass": "Pfizer",
+    "value": 2046000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 46772,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 46772,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "PM",
+    "cusip": "718172109",
+    "titleOfClass": "Philip Morris",
+    "value": 19000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 235,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 235,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MINT",
+    "cusip": "72201R833",
+    "titleOfClass": "PIMCO Enhanced Short Maturity ETF",
+    "value": 3000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 38,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 38,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BOND",
+    "cusip": "72201R775",
+    "titleOfClass": "PIMCO Total Return (ETF)",
+    "value": 124000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 1391,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 1391,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "QQQ",
+    "cusip": "46090E103",
+    "titleOfClass": "PowerShares QQQ Trust (ETF)",
+    "value": 16000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 63,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 63,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SPLV",
+    "cusip": "46138E354",
+    "titleOfClass": "PowerShares S&P 500 Low Volatility ETF",
+    "value": 18000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 319,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 319,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "PPG",
+    "cusip": "693506107",
+    "titleOfClass": "PPG Industries",
+    "value": 1000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 18,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 18,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "PFG",
+    "cusip": "74251V102",
+    "titleOfClass": "Principal Financial Group Inc",
+    "value": 6000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 90,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 90,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "PG",
+    "cusip": "742718109",
+    "titleOfClass": "Procter & Gamble",
+    "value": 33000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 269,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 269,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "PEG",
+    "cusip": "744573106",
+    "titleOfClass": "Public Service Enterprise Group",
+    "value": 4000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 77,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 77,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "QCOM",
+    "cusip": "747525103",
+    "titleOfClass": "QUALCOMM Inc",
+    "value": 7000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 68,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 68,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "RTX",
+    "cusip": "75513E101",
+    "titleOfClass": "Raytheon Technologies Ord",
+    "value": 3000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 47,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 47,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "RH",
+    "cusip": "74967X103",
+    "titleOfClass": "RH Com",
+    "value": 26000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 109,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 109,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "RBLX",
+    "cusip": "771049103",
+    "titleOfClass": "Roblox Corp",
+    "value": 15000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 423,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 423,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "RHHBY",
+    "cusip": "771195104",
+    "titleOfClass": "Roche Holding AG ADR",
+    "value": 30000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 753,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 753,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ROST",
+    "cusip": "778296103",
+    "titleOfClass": "Ross Stores Inc",
+    "value": 9000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 114,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 114,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "RY",
+    "cusip": "780087102",
+    "titleOfClass": "Royal Bank of Canada",
+    "value": 38000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 425,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 425,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "RSP",
+    "cusip": "46137V357",
+    "titleOfClass": "Ryd. S&P 500 Eq. Wt.",
+    "value": 19000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 152,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 152,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SCHF",
+    "cusip": "808524805",
+    "titleOfClass": "Schwab Int'l Equity",
+    "value": 58000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 2069,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 2069,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SCHB",
+    "cusip": "808524102",
+    "titleOfClass": "Schwab U.S. Broad Market",
+    "value": 12698000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 302411,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 302411,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SCHA",
+    "cusip": "808524607",
+    "titleOfClass": "Schwab U.S. Small Idx.",
+    "value": 1000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 46,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 46,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SCHZ",
+    "cusip": "808524839",
+    "titleOfClass": "Schwab US Aggregate Bond ETF",
+    "value": 24000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 534,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 534,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SCHX",
+    "cusip": "808524201",
+    "titleOfClass": "Schwab US Large-Cap ETF",
+    "value": 3000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 82,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 82,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SCHG",
+    "cusip": "808524300",
+    "titleOfClass": "Schwab US Large-Cap Growth",
+    "value": 397000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 7115,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 7115,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SCHP",
+    "cusip": "808524870",
+    "titleOfClass": "Schwab US TIPS ETF",
+    "value": 11000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 218,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 218,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SE",
+    "cusip": "81141R100",
+    "titleOfClass": "Sea Limited",
+    "value": 3000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 69,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 69,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SONY",
+    "cusip": "835699307",
+    "titleOfClass": "Sony Group Corp",
+    "value": 30000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 479,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 479,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SRNE",
+    "cusip": "83587F202",
+    "titleOfClass": "Sorrento Therapeutics Inc",
+    "value": 5000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 3600,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 3600,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "TOTL",
+    "cusip": "78467V848",
+    "titleOfClass": "SPDR DoubleLine Total Return Tact ETF",
+    "value": 124000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 3094,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 3094,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SHM",
+    "cusip": "78468R739",
+    "titleOfClass": "SPDR Nuveen Blmbg Barclays ST MunBd ETF",
+    "value": 12000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 275,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 275,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SBUX",
+    "cusip": "855244109",
+    "titleOfClass": "Starbucks Corp",
+    "value": 16000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 200,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 200,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SYK",
+    "cusip": "863667101",
+    "titleOfClass": "Stryker Corp.",
+    "value": 19000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 98,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 98,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "SYY",
+    "cusip": "871829107",
+    "titleOfClass": "Sysco Corporation",
+    "value": 22000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 313,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 313,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "TGT",
+    "cusip": "87612E106",
+    "titleOfClass": "Target Corporation",
+    "value": 7000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 49,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 49,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "TSLA",
+    "cusip": "88160R101",
+    "titleOfClass": "Tesla Motors Inc",
+    "value": 133000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 504,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 504,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "TXN",
+    "cusip": "882508104",
+    "titleOfClass": "Texas Instruments",
+    "value": 19000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 127,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 127,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "KO",
+    "cusip": "191216100",
+    "titleOfClass": "The Coca-Cola Company",
+    "value": 2692000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 48063,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 48063,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "COO",
+    "cusip": "216648402",
+    "titleOfClass": "The Cooper Companies Inc",
+    "value": 6000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 26,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 26,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "TRV",
+    "cusip": "89417E109",
+    "titleOfClass": "The Travelers Companies",
+    "value": 9000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 60,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 60,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "TJX",
+    "cusip": "872540109",
+    "titleOfClass": "TJX Companies Inc",
+    "value": 31000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 504,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 504,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "TTC",
+    "cusip": "891092108",
+    "titleOfClass": "Toro Co",
+    "value": 15000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 180,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 180,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "TD",
+    "cusip": "891160509",
+    "titleOfClass": "Toronto Dominion Bank",
+    "value": 36000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 600,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 600,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "TFC",
+    "cusip": "89832Q109",
+    "titleOfClass": "Truist Finl Corp Com",
+    "value": 520000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 11957,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 11957,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "UNP",
+    "cusip": "907818108",
+    "titleOfClass": "Union Pacific Corp",
+    "value": 2224000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 11417,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 11417,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "URI",
+    "cusip": "911363109",
+    "titleOfClass": "United Rentals Inc",
+    "value": 19000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 72,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 72,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "UNH",
+    "cusip": "91324P102",
+    "titleOfClass": "Unitedhealth Group",
+    "value": 61000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 121,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 121,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VFC",
+    "cusip": "918204108",
+    "titleOfClass": "V.F. Corporation",
+    "value": 3000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 127,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 127,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MLN",
+    "cusip": "92189F536",
+    "titleOfClass": "VanEck Long Muni ETF",
+    "value": 1449000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 87115,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 87115,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VOO",
+    "cusip": "922908363",
+    "titleOfClass": "Vanguard 500 ETF",
+    "value": 15000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 48,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 48,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VIG",
+    "cusip": "921908844",
+    "titleOfClass": "Vanguard Dividend Appreciation (ETF)",
+    "value": 6695000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 49534,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 49534,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VSGX",
+    "cusip": "921910725",
+    "titleOfClass": "Vanguard ESG International Stock ETF",
+    "value": 4263000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 98139,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 98139,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VUG",
+    "cusip": "922908736",
+    "titleOfClass": "Vanguard Growth ETF",
+    "value": 6392000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 29879,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 29879,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VYM",
+    "cusip": "921946406",
+    "titleOfClass": "Vanguard High Dividend Yield ETF",
+    "value": 4000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 44,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 44,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VCIT",
+    "cusip": "92206C870",
+    "titleOfClass": "Vanguard Intermediate-Term Corporate Bond (ETF)",
+    "value": 22000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 301,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 301,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VYMI",
+    "cusip": "921946794",
+    "titleOfClass": "Vanguard Intl Hi Div Yld Idx ETF",
+    "value": 7000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 145,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 145,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MGK",
+    "cusip": "921910816",
+    "titleOfClass": "Vanguard Mega Cap Growth ETF",
+    "value": 7000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 42,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 42,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "MGV",
+    "cusip": "921910840",
+    "titleOfClass": "Vanguard Mega Cap Value ETF",
+    "value": 1480000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 16463,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 16463,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VTEB",
+    "cusip": "922907746",
+    "titleOfClass": "Vanguard Tax-Exempt Bond ETF",
+    "value": 643000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 13376,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 13376,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BND",
+    "cusip": "921937835",
+    "titleOfClass": "Vanguard Total Bond Market Index",
+    "value": 377000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 5298,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 5298,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "BNDX",
+    "cusip": "92203J407",
+    "titleOfClass": "Vanguard Total International Bond ETF",
+    "value": 360000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 7557,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 7557,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VXUS",
+    "cusip": "921909768",
+    "titleOfClass": "Vanguard Total International Stock ETF",
+    "value": 6277000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 137144,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 137144,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VTI",
+    "cusip": "922908769",
+    "titleOfClass": "Vanguard Total Stock Market (ETF)",
+    "value": 15160000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 84471,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 84471,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VUSB",
+    "cusip": "92203C303",
+    "titleOfClass": "Vanguard Ultra-Short Bond ETF",
+    "value": 11000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 243,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 243,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VTV",
+    "cusip": "922908744",
+    "titleOfClass": "Vanguard Value ETF",
+    "value": 2000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 21,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 21,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "VZ",
+    "cusip": "92343V104",
+    "titleOfClass": "Verizon Communications",
+    "value": 76000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 2007,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 2007,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "WMT",
+    "cusip": "931142103",
+    "titleOfClass": "Wal-Mart Stores Inc.",
+    "value": 29000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 228,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 228,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "NTSX",
+    "cusip": "97717Y790",
+    "titleOfClass": "WisdomTree U.S. Efficient Core Fund",
+    "value": 7680000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 251161,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 251161,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "XYL",
+    "cusip": "98419M100",
+    "titleOfClass": "XYLEM INC",
+    "value": 14000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 165,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 165,
+      "Shared": 0,
+      "None": 0
+    }
+  },
+  {
+    "nameOfIssuer": "ZS",
+    "cusip": "98980G102",
+    "titleOfClass": "Zscaler Inc",
+    "value": 3000,
+    "shrsOrPrnAmt": {
+      "sshPrnamt": 20,
+      "sshPrnamtType": "SH"
+    },
+    "investmentDiscretion": "SOLE",
+    "votingAuthority": {
+      "Sole": 20,
+      "Shared": 0,
+      "None": 0
+    }
+  }
+]
